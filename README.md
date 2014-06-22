@@ -1,4 +1,4 @@
-Parse Image Uploader
+###Parse Image Uploader
 
 Built an Image uploader initially using Backbone. Explored a different way to have global variables. We have intermediate "controller" object that orchestrates the creation and organization of views into a hierarchy. (App object found in app.js.)
 
